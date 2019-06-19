@@ -1,0 +1,15 @@
+.form-div{
+    margin-top: 100px;
+    padding: 25px 15px 10px 15px;
+    border-radius: 5px;
+    font-size: 14px;
+    background: white;
+}
+
+.form-control:focus{
+    box-shadow: none;
+}
+
+.btn-login{
+    background: #f12b2b;
+}
